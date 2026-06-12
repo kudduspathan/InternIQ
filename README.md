@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # InternIQ — From Learning to Earning
 
 AI-powered internship and fresher hiring platform.  
@@ -249,3 +250,6 @@ npm run preview
 ---
 
 *InternIQ v1.0 MVP · Built by Intellobyte*
+=======
+# InternIQ
+>>>>>>> 964acba830026d5114881fcea88818ef311ad566
